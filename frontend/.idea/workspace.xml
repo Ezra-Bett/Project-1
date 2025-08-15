@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c98dc123-eaa7-4307-a32c-53e7261ef0db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/BaseNavbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/students/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_mis/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c98dc123-eaa7-4307-a32c-53e7261ef0db" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="31FWjKLYQB5no3d86hZNQsSNPui" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -64,6 +35,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -90,11 +62,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755120435823</updated>
-      <workItem from="1755120437647" duration="3365000" />
+      <workItem from="1755120437647" duration="3634000" />
+      <workItem from="1755221611841" duration="10459000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/ViewUsers.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
